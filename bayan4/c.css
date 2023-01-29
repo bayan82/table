@@ -1,0 +1,13 @@
+.t1
+{background-image: url("p.png");
+	margin: auto; background-repeat: no-repeat; background-position:top center;
+width: 80%;
+}
+td
+ {font-size: 20px;
+  text-align: center;
+}
+td{ padding: 10px;
+  border: 2px dotted black;
+}
+.c{background-color: rgba(190, 229, 250, 0.2);}
